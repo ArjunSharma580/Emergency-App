@@ -8,7 +8,7 @@ Front End using React JS
 Back End (Login Authentication) using Google Firebase - 
 AIzaSyCJORbjOC78QCwncoeYuG_xFxs0TwRgj0o
 
-Repository Link (On Github) -
+Repository Link (On Github) - https://github.com/ArjunSharma580/Emergency-App
 This App is One Stop Shop for Emergency. It includes 4 screens, namely -
 
 - Login Screen
